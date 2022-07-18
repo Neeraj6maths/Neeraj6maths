@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Neeraj Bassi. I have a bachelors degree in Mathematics from University of Delhi, graduated in 2021. I am a data science enthusiast. Please have look at various projects I have completed.
 
 <!--
 **Neeraj6maths/Neeraj6maths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
